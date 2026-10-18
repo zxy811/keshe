@@ -1,0 +1,63 @@
+已从最终ZIP独立解压，151个文件SHA256校验全部一致。
+PASS all 28 filters stopband >= 55 dB 
+PASS all 28 filters passband ripple <= 0.03 dB 
+PASS all 28 filters absolute passband gain within 0.03 dB 
+PASS compiled C FIR tables equal independently regenerated design 
+PASS FIR symmetry all banks 
+PASS 32-bit FIR accumulation bound 
+PASS FFT zero C max error 0.00000 integer counts
+PASS FFT zero DIF model max error 0.00000 integer counts
+PASS FFT impulse C max error 0.00000 integer counts
+PASS FFT impulse DIF model max error 0.00000 integer counts
+PASS FFT DC C max error 0.00000 integer counts
+PASS FFT DC DIF model max error 0.00000 integer counts
+PASS FFT Nyquist C max error 0.00000 integer counts
+PASS FFT Nyquist DIF model max error 0.00000 integer counts
+PASS FFT bin_8 C max error 3.01184 integer counts
+PASS FFT bin_8 DIF model max error 2.01184 integer counts
+PASS FFT multi C max error 2.07083 integer counts
+PASS FFT multi DIF model max error 2.07083 integer counts
+PASS FFT random C max error 3.83202 integer counts
+PASS FFT random DIF model max error 2.52562 integer counts
+PASS FFT complex False 2.92501
+PASS FFT complex True 2.31256
+PASS invalid key leaves frame unchanged 
+PASS key 1 completes correct mode 
+PASS key 1 writes output 
+PASS key 1 preserves input 
+PASS key 2 completes correct mode 
+PASS key 2 writes output 
+PASS key 2 preserves input 
+PASS key 3 completes correct mode 
+PASS key 3 writes output 
+PASS key 3 preserves input 
+PASS key 4 completes correct mode 
+PASS key 4 writes output 
+PASS key 4 preserves input 
+PASS key 5 completes correct mode 
+PASS key 5 writes output 
+PASS key 5 preserves input 
+PASS key 6 completes correct mode 
+PASS key 6 writes output 
+PASS key 6 preserves input 
+PASS key 7 completes correct mode 
+PASS key 7 writes output 
+PASS key 7 preserves input 
+PASS LPF 10-step cutoff cycle 
+PASS BPF 9-step band cycle 
+PASS image FIR independent reference 1 
+PASS signal FIR reference 1 
+PASS image FIR independent reference 2 
+PASS signal FIR reference 2 
+PASS image FIR independent reference 3 
+PASS signal FIR reference 3 
+PASS key4/key5 same transform within quantization 
+PASS AM sidebands 7/9 kHz 
+PASS AM carrier behavior 
+PASS DSB sidebands 7/9 kHz 
+PASS DSB carrier behavior 
+PASS CCS DAT 6400-word roundtrip 
+PASS source cycles skip missing user picture 
+PASS uploaded source cycle includes built-in source 
+PASS BPF maps removed DC to neutral gray 
+{'total': 61, 'passed': 61, 'failed': 0}
