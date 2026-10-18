@@ -1,2 +1,0 @@
-Executed by: GNU Octave 9.4.0
-Coefficient maxdiff=0; DIT error=2.97316; DIF error=2.97316
